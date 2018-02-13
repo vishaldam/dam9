@@ -1,0 +1,13 @@
+Providing credit for everything used.
+
+Dependencies:
+discord.js (https://discord.js.org)
+
+Code:
+[index.js #1] - Concept credit Samir Martin
+    - Source: https://github.com/jennasisis/AkiiBot-Rewrite/blob/master/main.js#L6-L13
+    - Author: https://github.com/jennasisis
+
+[index.js #2] - Code credit OGNovuh
+    - Source: https://github.com/Novuh-Bot/Guardian/blob/master/src/app.js#L33
+    - Author: https://github.com/OGNova

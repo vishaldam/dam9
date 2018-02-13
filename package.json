@@ -1,0 +1,23 @@
+{
+  "name": "nanibot",
+  "version": "1.0.0",
+  "description": "a bot by nani built in JS on node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naniworks/nanibot.git"
+  },
+  "author": "Cole McKinney <cole@coles.life>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/naniworks/nanibot/issues"
+  },
+  "homepage": "https://github.com/naniworks/nanibot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "mysql": "^2.15.0"
+  }
+}
