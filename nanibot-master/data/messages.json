@@ -1,0 +1,9 @@
+{
+    "en": {
+        "console_license": "\nnanibot Copyright (C) 2018 Cole McKinney\nThis program comes with ABSOLUTELY NO WARRANTY; for details see 'WARRANTY'.\nThis is free software, and you are welcome to redistribute it\nunder certain conditions; see 'LICENSE' for details.\n",
+        "logged_in": "Logged in!\n - User: %\n - Invite Link: %",
+        "pinging": "Pinging...",
+        "ping_result": "Pong! %ms",
+        "error": "Error"
+    }
+}
